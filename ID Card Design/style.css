@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px; 
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(to bottom, rgb(42, 68, 199) 30%, #f8f3e6 60%);
+    font-family: Arial, sans-serif;
+    color: black;
+    padding: 20px;
+    box-sizing: border-box;
+}
+section{
+    width: 270px;
+    height: 450px;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 15% 0 0 75%;
+    background-color: white;
+    
+
+}
